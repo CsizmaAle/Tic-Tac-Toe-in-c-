@@ -1,0 +1,73 @@
+C:\Users\MASTER\Desktop\incercare\XO atestat\XO atestat\bin\Debug\net6.0-windows\XO atestat.exe
+C:\Users\MASTER\Desktop\incercare\XO atestat\XO atestat\bin\Debug\net6.0-windows\XO atestat.deps.json
+C:\Users\MASTER\Desktop\incercare\XO atestat\XO atestat\bin\Debug\net6.0-windows\XO atestat.runtimeconfig.json
+C:\Users\MASTER\Desktop\incercare\XO atestat\XO atestat\bin\Debug\net6.0-windows\XO atestat.dll
+C:\Users\MASTER\Desktop\incercare\XO atestat\XO atestat\bin\Debug\net6.0-windows\XO atestat.pdb
+C:\Users\MASTER\Desktop\incercare\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO atestat.csproj.AssemblyReference.cache
+C:\Users\MASTER\Desktop\incercare\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO_atestat.Form1.resources
+C:\Users\MASTER\Desktop\incercare\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO atestat.csproj.GenerateResource.cache
+C:\Users\MASTER\Desktop\incercare\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO atestat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MASTER\Desktop\incercare\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO atestat.AssemblyInfoInputs.cache
+C:\Users\MASTER\Desktop\incercare\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO atestat.AssemblyInfo.cs
+C:\Users\MASTER\Desktop\incercare\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO atestat.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\incercare\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO atestat.dll
+C:\Users\MASTER\Desktop\incercare\XO atestat\XO atestat\obj\Debug\net6.0-windows\refint\XO atestat.dll
+C:\Users\MASTER\Desktop\incercare\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO atestat.pdb
+C:\Users\MASTER\Desktop\incercare\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO atestat.genruntimeconfig.cache
+C:\Users\MASTER\Desktop\incercare\XO atestat\XO atestat\obj\Debug\net6.0-windows\ref\XO atestat.dll
+C:\Users\MASTER\OneDrive\Desktop\school\atestat info\XO atestat\XO atestat\bin\Debug\net6.0-windows\XO atestat.exe
+C:\Users\MASTER\OneDrive\Desktop\school\atestat info\XO atestat\XO atestat\bin\Debug\net6.0-windows\XO atestat.deps.json
+C:\Users\MASTER\OneDrive\Desktop\school\atestat info\XO atestat\XO atestat\bin\Debug\net6.0-windows\XO atestat.runtimeconfig.json
+C:\Users\MASTER\OneDrive\Desktop\school\atestat info\XO atestat\XO atestat\bin\Debug\net6.0-windows\XO atestat.dll
+C:\Users\MASTER\OneDrive\Desktop\school\atestat info\XO atestat\XO atestat\bin\Debug\net6.0-windows\XO atestat.pdb
+C:\Users\MASTER\OneDrive\Desktop\school\atestat info\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO_atestat.Form1.resources
+C:\Users\MASTER\OneDrive\Desktop\school\atestat info\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO atestat.csproj.GenerateResource.cache
+C:\Users\MASTER\OneDrive\Desktop\school\atestat info\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO atestat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MASTER\OneDrive\Desktop\school\atestat info\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO atestat.AssemblyInfoInputs.cache
+C:\Users\MASTER\OneDrive\Desktop\school\atestat info\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO atestat.AssemblyInfo.cs
+C:\Users\MASTER\OneDrive\Desktop\school\atestat info\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO atestat.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\OneDrive\Desktop\school\atestat info\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO atestat.dll
+C:\Users\MASTER\OneDrive\Desktop\school\atestat info\XO atestat\XO atestat\obj\Debug\net6.0-windows\refint\XO atestat.dll
+C:\Users\MASTER\OneDrive\Desktop\school\atestat info\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO atestat.pdb
+C:\Users\MASTER\OneDrive\Desktop\school\atestat info\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO atestat.genruntimeconfig.cache
+C:\Users\MASTER\OneDrive\Desktop\school\atestat info\XO atestat\XO atestat\obj\Debug\net6.0-windows\ref\XO atestat.dll
+C:\Users\MASTER\OneDrive\Desktop\JOC DE X SI O ZIUA PORTILOR DESCHISE\XO atestat\XO atestat\bin\Debug\net6.0-windows\XO atestat.exe
+C:\Users\MASTER\OneDrive\Desktop\JOC DE X SI O ZIUA PORTILOR DESCHISE\XO atestat\XO atestat\bin\Debug\net6.0-windows\XO atestat.deps.json
+C:\Users\MASTER\OneDrive\Desktop\JOC DE X SI O ZIUA PORTILOR DESCHISE\XO atestat\XO atestat\bin\Debug\net6.0-windows\XO atestat.runtimeconfig.json
+C:\Users\MASTER\OneDrive\Desktop\JOC DE X SI O ZIUA PORTILOR DESCHISE\XO atestat\XO atestat\bin\Debug\net6.0-windows\XO atestat.dll
+C:\Users\MASTER\OneDrive\Desktop\JOC DE X SI O ZIUA PORTILOR DESCHISE\XO atestat\XO atestat\bin\Debug\net6.0-windows\XO atestat.pdb
+C:\Users\MASTER\OneDrive\Desktop\JOC DE X SI O ZIUA PORTILOR DESCHISE\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO_atestat.Form1.resources
+C:\Users\MASTER\OneDrive\Desktop\JOC DE X SI O ZIUA PORTILOR DESCHISE\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO atestat.csproj.GenerateResource.cache
+C:\Users\MASTER\OneDrive\Desktop\JOC DE X SI O ZIUA PORTILOR DESCHISE\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO atestat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MASTER\OneDrive\Desktop\JOC DE X SI O ZIUA PORTILOR DESCHISE\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO atestat.AssemblyInfoInputs.cache
+C:\Users\MASTER\OneDrive\Desktop\JOC DE X SI O ZIUA PORTILOR DESCHISE\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO atestat.AssemblyInfo.cs
+C:\Users\MASTER\OneDrive\Desktop\JOC DE X SI O ZIUA PORTILOR DESCHISE\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO atestat.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\OneDrive\Desktop\JOC DE X SI O ZIUA PORTILOR DESCHISE\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO atestat.dll
+C:\Users\MASTER\OneDrive\Desktop\JOC DE X SI O ZIUA PORTILOR DESCHISE\XO atestat\XO atestat\obj\Debug\net6.0-windows\refint\XO atestat.dll
+C:\Users\MASTER\OneDrive\Desktop\JOC DE X SI O ZIUA PORTILOR DESCHISE\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO atestat.pdb
+C:\Users\MASTER\OneDrive\Desktop\JOC DE X SI O ZIUA PORTILOR DESCHISE\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO atestat.genruntimeconfig.cache
+C:\Users\MASTER\OneDrive\Desktop\JOC DE X SI O ZIUA PORTILOR DESCHISE\XO atestat\XO atestat\obj\Debug\net6.0-windows\ref\XO atestat.dll
+C:\Users\MASTER\OneDrive\Desktop\JOC DE X SI O ZIUA PORTILOR DESCHISE\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO_atestat.Meniu.resources
+C:\Users\MASTER\OneDrive\Desktop\JOC DE X SI O ZIUA PORTILOR DESCHISE\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO_atestat.Form2.resources
+C:\Users\MASTER\OneDrive\Desktop\JOC DE X SI O ZIUA PORTILOR DESCHISE\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO_atestat.Form3.resources
+C:\Users\MASTER\OneDrive\Desktop\JOC DE X SI O ZIUA PORTILOR DESCHISE\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO_atestat.Form4.resources
+C:\Users\MASTER\OneDrive\Desktop\X si O remake\XO atestat\XO atestat\bin\Debug\net6.0-windows\XO atestat.exe
+C:\Users\MASTER\OneDrive\Desktop\X si O remake\XO atestat\XO atestat\bin\Debug\net6.0-windows\XO atestat.deps.json
+C:\Users\MASTER\OneDrive\Desktop\X si O remake\XO atestat\XO atestat\bin\Debug\net6.0-windows\XO atestat.runtimeconfig.json
+C:\Users\MASTER\OneDrive\Desktop\X si O remake\XO atestat\XO atestat\bin\Debug\net6.0-windows\XO atestat.dll
+C:\Users\MASTER\OneDrive\Desktop\X si O remake\XO atestat\XO atestat\bin\Debug\net6.0-windows\XO atestat.pdb
+C:\Users\MASTER\OneDrive\Desktop\X si O remake\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO_atestat.Form1.resources
+C:\Users\MASTER\OneDrive\Desktop\X si O remake\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO_atestat.Form2.resources
+C:\Users\MASTER\OneDrive\Desktop\X si O remake\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO_atestat.Form3.resources
+C:\Users\MASTER\OneDrive\Desktop\X si O remake\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO_atestat.Form4.resources
+C:\Users\MASTER\OneDrive\Desktop\X si O remake\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO_atestat.Meniu.resources
+C:\Users\MASTER\OneDrive\Desktop\X si O remake\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO atestat.csproj.GenerateResource.cache
+C:\Users\MASTER\OneDrive\Desktop\X si O remake\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO atestat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MASTER\OneDrive\Desktop\X si O remake\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO atestat.AssemblyInfoInputs.cache
+C:\Users\MASTER\OneDrive\Desktop\X si O remake\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO atestat.AssemblyInfo.cs
+C:\Users\MASTER\OneDrive\Desktop\X si O remake\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO atestat.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\OneDrive\Desktop\X si O remake\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO atestat.dll
+C:\Users\MASTER\OneDrive\Desktop\X si O remake\XO atestat\XO atestat\obj\Debug\net6.0-windows\refint\XO atestat.dll
+C:\Users\MASTER\OneDrive\Desktop\X si O remake\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO atestat.pdb
+C:\Users\MASTER\OneDrive\Desktop\X si O remake\XO atestat\XO atestat\obj\Debug\net6.0-windows\XO atestat.genruntimeconfig.cache
+C:\Users\MASTER\OneDrive\Desktop\X si O remake\XO atestat\XO atestat\obj\Debug\net6.0-windows\ref\XO atestat.dll
